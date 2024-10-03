@@ -21,7 +21,7 @@ This project combines data cleaning, EDA, and predictive modeling to identify ke
 ## Repository Structure
 - `data.csv`: Contains the dataset used for analysis.
 - `dictionary.csv`: Provides detailed descriptions of the dataset features.
-- `startup_eda.ipynb`: Jupyter notebook containing the analysis.
+- `startups.ipynb`: Jupyter notebook containing the analysis.
 - `README.md`: Overview of the project.
 
 ## Usage
